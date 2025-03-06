@@ -37,5 +37,5 @@ pip install -r requirements.txt
 
 For more detailed settings, you can refer to the `requirements.yml` file.（Tested on: PyTorch 1.12.0 Python3.8 CUDA11.3）
 
-### Acknowledgement
+## Acknowledgement
 This work is built upon the [PSTNet](https://github.com/hehefan/Point-Spatio-Temporal-Convolution)
