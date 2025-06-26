@@ -3,7 +3,7 @@
 ## Recognizing Actions from Robotic View for Natural Human-Robot Interaction
 
 [ [Project Page](https://active2750.github.io/) ]
-
+Official code for "Recognizing Actions from Robotic View for Natural Human-Robot Interaction", ICCV, 2025.
 ![image](assets/image.png)
 
 ## Introduction
